@@ -19,11 +19,11 @@ https://yellow-sea-021a14d10.3.azurestaticapps.net/
 ### 5. Articles
 ![Screenshot 5](https://github.com/ayus1234/Online-Study-App/assets/107507481/b59bb937-9a6d-49a8-8292-4e396b3fc07c)
 
-### About Us
+### 6. About Us
 ![Screenshot 6](https://github.com/ayus1234/Online-Study-App/assets/107507481/4fd99fbe-7fd5-4b05-a86b-6f7606b05275)
 
-### 6. Contact Us
+### 7. Contact Us
 ![Screenshot 7](https://github.com/ayus1234/Online-Study-App/assets/107507481/f2d5ec92-13a3-48ce-a411-30e2b6451ec8)
 
-### 7. More
+### 8. More
 ![Screenshot 8](https://github.com/ayus1234/Online-Study-App/assets/107507481/ad668972-2016-4b8e-8923-8ff6042ec1fd)
